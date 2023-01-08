@@ -1,8 +1,8 @@
 # Vehicle-Sales-in-US-and-Canada
 
-**2022 US AUTO SALES BY MODEL ANALYSIS
+#2022 US AUTO SALES BY MODEL ANALYSIS
 
-**Website: https://www.goodcarbadcar.net
+#Website: https://www.goodcarbadcar.net
 
 *US VEHICLE SALES – LAST MONTH
 This data table looks at last month’s total SUV sales volumes in the United States by model. 

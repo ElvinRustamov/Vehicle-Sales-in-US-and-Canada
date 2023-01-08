@@ -13,7 +13,7 @@ About these file:
 RangeIndex: 200 entries, 0 to 199
 Data columns (total 7 columns):
      Column      Non-Null Count  Dtype 
----  ------      --------------  ----- 
+
  0   Model       200 non-null    object
  1   Month       200 non-null    int64 
  2   Month LY    200 non-null    int64 

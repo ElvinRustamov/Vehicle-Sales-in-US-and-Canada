@@ -1,5 +1,5 @@
 # Vehicle-Sales-in-US-and-Canada
-2022 US AUTO SALES BY MODEL ANALYSIS
+#2022 US AUTO SALES BY MODEL ANALYSIS
 Website: https://www.goodcarbadcar.net
 
 US VEHICLE SALES – LAST MONTH
@@ -12,7 +12,7 @@ About these file:
 
 RangeIndex: 200 entries, 0 to 199
 Data columns (total 7 columns):
- #   Column      Non-Null Count  Dtype 
+     Column      Non-Null Count  Dtype 
 ---  ------      --------------  ----- 
  0   Model       200 non-null    object
  1   Month       200 non-null    int64 
@@ -33,7 +33,7 @@ About these file:
 
 RangeIndex: 339 entries, 0 to 338
 Data columns (total 3 columns):
- #   Column     Non-Null Count  Dtype 
+     Column     Non-Null Count  Dtype 
 ---  ------     --------------  ----- 
  0   modelName  339 non-null    object
  1   Q4 2022    339 non-null    int64 
@@ -48,7 +48,7 @@ About these file:
 
 RangeIndex: 19 entries, 0 to 18
 Data columns (total 13 columns):
- #   Column        Non-Null Count  Dtype 
+     Column        Non-Null Count  Dtype 
 ---  ------        --------------  ----- 
  0   Manufacturer  19 non-null     object
  1   Jan           19 non-null     int64 
